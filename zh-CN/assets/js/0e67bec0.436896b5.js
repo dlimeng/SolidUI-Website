@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksolidui_website=self.webpackChunksolidui_website||[]).push([[3015],{64:s=>{s.exports=JSON.parse('{"label":"AIGC","permalink":"/zh-CN/blog/tags/aigc","allTagsPath":"/zh-CN/blog/tags","count":1}')}}]);
